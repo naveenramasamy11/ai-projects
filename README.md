@@ -10,6 +10,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 |---|---------|-----------------|------------|
 | 01 | [Sentiment Analyzer](./01-sentiment-analyzer/) | NLP, VADER, TextBlob | ⭐ Beginner |
 | 02 | [House Price Predictor](./02-house-price-predictor/) | Linear Regression, scikit-learn | ⭐ Beginner |
+| 03 | [Spam Email Classifier](./03-spam-email-classifier/) | Naive Bayes, TF-IDF, text classification | ⭐ Beginner |
 
 ---
 
@@ -65,6 +66,7 @@ If you're new to AI/ML, follow this order:
 
 1. Start with **Project 01 – Sentiment Analyzer** to learn how machines understand text.
 2. Move to **Project 02 – House Price Predictor** to learn how machines learn from data and make predictions.
+3. Try **Project 03 – Spam Email Classifier** to see how text features and probabilities combine to filter unwanted emails.
 
 ---
 
@@ -77,6 +79,7 @@ If you're new to AI/ML, follow this order:
 | `scikit-learn` | ML algorithms and utilities |
 | `pandas` | Data manipulation |
 | `matplotlib` | Visualization |
+| `seaborn` | Statistical data visualization |
 | `numpy` | Numerical computing |
 | `jupyter` | Interactive notebooks |
 
