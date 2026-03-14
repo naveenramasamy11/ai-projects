@@ -11,6 +11,8 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 01 | [Sentiment Analyzer](./01-sentiment-analyzer/) | NLP, VADER, TextBlob | ⭐ Beginner |
 | 02 | [House Price Predictor](./02-house-price-predictor/) | Linear Regression, scikit-learn | ⭐ Beginner |
 | 03 | [Spam Email Classifier](./03-spam-email-classifier/) | Naive Bayes, TF-IDF, text classification | ⭐ Beginner |
+| 04 | [Iris Flower Classifier](./04-iris-flower-classifier/) | Decision Tree, KNN, multi-class classification | ⭐ Beginner |
+| 05 | [Movie Recommendation System](./05-movie-recommendation/) | Cosine similarity, TF-IDF, content-based filtering | ⭐⭐ Intermediate |
 
 ---
 
@@ -64,9 +66,11 @@ pip install notebook
 
 If you're new to AI/ML, follow this order:
 
-1. Start with **Project 01 – Sentiment Analyzer** to learn how machines understand text.
-2. Move to **Project 02 – House Price Predictor** to learn how machines learn from data and make predictions.
-3. Try **Project 03 – Spam Email Classifier** to see how text features and probabilities combine to filter unwanted emails.
+1. **Project 01 – Sentiment Analyzer** — Learn how machines understand the emotion behind text.
+2. **Project 02 – House Price Predictor** — Learn how machines learn from data and make numeric predictions.
+3. **Project 03 – Spam Email Classifier** — See how text features and probabilities filter unwanted emails.
+4. **Project 04 – Iris Flower Classifier** — Explore multi-class classification with Decision Trees and KNN.
+5. **Project 05 – Movie Recommendation System** — Build a content-based recommender with TF-IDF and cosine similarity.
 
 ---
 
