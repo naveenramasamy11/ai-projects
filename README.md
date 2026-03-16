@@ -13,6 +13,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 03 | [Spam Email Classifier](./03-spam-email-classifier/) | Naive Bayes, TF-IDF, text classification | ⭐ Beginner |
 | 04 | [Iris Flower Classifier](./04-iris-flower-classifier/) | Decision Tree, KNN, multi-class classification | ⭐ Beginner |
 | 05 | [Movie Recommendation System](./05-movie-recommendation/) | Cosine similarity, TF-IDF, content-based filtering | ⭐⭐ Intermediate |
+| 06 | [Stock Trend Predictor](./06-stock-trend-predictor/) | Time series, moving averages, Gradient Boosting, matplotlib | ⭐⭐ Intermediate |
 
 ---
 
@@ -71,6 +72,7 @@ If you're new to AI/ML, follow this order:
 3. **Project 03 – Spam Email Classifier** — See how text features and probabilities filter unwanted emails.
 4. **Project 04 – Iris Flower Classifier** — Explore multi-class classification with Decision Trees and KNN.
 5. **Project 05 – Movie Recommendation System** — Build a content-based recommender with TF-IDF and cosine similarity.
+6. **Project 06 – Stock Trend Predictor** — Simulate stock prices, compute moving averages, generate crossover signals, and train a classifier to predict 5-day price direction.
 
 ---
 
