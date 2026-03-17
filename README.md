@@ -14,6 +14,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 04 | [Iris Flower Classifier](./04-iris-flower-classifier/) | Decision Tree, KNN, multi-class classification | ⭐ Beginner |
 | 05 | [Movie Recommendation System](./05-movie-recommendation/) | Cosine similarity, TF-IDF, content-based filtering | ⭐⭐ Intermediate |
 | 06 | [Stock Trend Predictor](./06-stock-trend-predictor/) | Time series, moving averages, Gradient Boosting, matplotlib | ⭐⭐ Intermediate |
+| 07 | [Text Summarizer](./07-text-summarizer/) | Extractive summarization, word frequency, NLTK | ⭐ Beginner |
 
 ---
 
@@ -73,6 +74,7 @@ If you're new to AI/ML, follow this order:
 4. **Project 04 – Iris Flower Classifier** — Explore multi-class classification with Decision Trees and KNN.
 5. **Project 05 – Movie Recommendation System** — Build a content-based recommender with TF-IDF and cosine similarity.
 6. **Project 06 – Stock Trend Predictor** — Simulate stock prices, compute moving averages, generate crossover signals, and train a classifier to predict 5-day price direction.
+7. **Project 07 – Text Summarizer** — Build an extractive summarizer that scores sentences by word frequency and returns the most informative ones from any article.
 
 ---
 
