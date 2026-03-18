@@ -15,6 +15,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 05 | [Movie Recommendation System](./05-movie-recommendation/) | Cosine similarity, TF-IDF, content-based filtering | ⭐⭐ Intermediate |
 | 06 | [Stock Trend Predictor](./06-stock-trend-predictor/) | Time series, moving averages, Gradient Boosting, matplotlib | ⭐⭐ Intermediate |
 | 07 | [Text Summarizer](./07-text-summarizer/) | Extractive summarization, word frequency, NLTK | ⭐ Beginner |
+| 08 | [Digit Recognizer](./08-digit-recognizer/) | MNIST digits, MLP neural network, StandardScaler, confusion matrix | ⭐⭐ Intermediate |
 
 ---
 
@@ -75,6 +76,7 @@ If you're new to AI/ML, follow this order:
 5. **Project 05 – Movie Recommendation System** — Build a content-based recommender with TF-IDF and cosine similarity.
 6. **Project 06 – Stock Trend Predictor** — Simulate stock prices, compute moving averages, generate crossover signals, and train a classifier to predict 5-day price direction.
 7. **Project 07 – Text Summarizer** — Build an extractive summarizer that scores sentences by word frequency and returns the most informative ones from any article.
+8. **Project 08 – Digit Recognizer** — Train a Multi-Layer Perceptron neural network to recognise handwritten digits (0–9) from pixel data, and learn about feature scaling and confusion matrices.
 
 ---
 
