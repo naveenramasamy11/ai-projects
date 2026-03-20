@@ -18,6 +18,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 08 | [Digit Recognizer](./08-digit-recognizer/) | MNIST digits, MLP neural network, StandardScaler, confusion matrix | ⭐⭐ Intermediate |
 | 09 | [Weather Classifier](./09-weather-classifier/) | Random Forest, feature engineering, cross-validation, confusion matrix | ⭐⭐ Intermediate |
 | 10 | [Customer Segmentation](./10-customer-segmentation/) | K-Means clustering, unsupervised learning, Elbow Method, feature scaling | ⭐⭐ Intermediate |
+| 11 | [LangChain Hello World](./11-langchain-hello-world/) | ChatOpenAI, PromptTemplate, StrOutputParser, LCEL pipe operator | 🦜 Beginner LangChain |
 
 ---
 
@@ -81,6 +82,7 @@ If you're new to AI/ML, follow this order:
 8. **Project 08 – Digit Recognizer** — Train a Multi-Layer Perceptron neural network to recognise handwritten digits (0–9) from pixel data, and learn about feature scaling and confusion matrices.
 9. **Project 09 – Weather Classifier** — Build a Random Forest that predicts weather type (Sunny/Rainy/Cloudy/Snowy) from meteorological features, and discover how feature engineering and ensemble models boost accuracy.
 10. **Project 10 – Customer Segmentation** — Group retail customers into five meaningful segments by annual income and spending score using K-Means clustering, and learn how the Elbow Method helps choose the right number of clusters.
+11. **Project 11 – LangChain Hello World** — Wire your first LangChain chain using `PromptTemplate`, `ChatOpenAI`, and `StrOutputParser` with the LCEL pipe operator — the foundation every LangChain application builds on.
 
 ---
 
@@ -96,6 +98,9 @@ If you're new to AI/ML, follow this order:
 | `seaborn` | Statistical data visualization |
 | `numpy` | Numerical computing |
 | `jupyter` | Interactive notebooks |
+| `langchain` | LLM application framework |
+| `langchain-openai` | LangChain integration for OpenAI models |
+| `openai` | OpenAI Python SDK |
 
 ---
 
