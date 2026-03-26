@@ -19,6 +19,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 09 | [Weather Classifier](./09-weather-classifier/) | Random Forest, feature engineering, cross-validation, confusion matrix | ⭐⭐ Intermediate |
 | 10 | [Customer Segmentation](./10-customer-segmentation/) | K-Means clustering, unsupervised learning, Elbow Method, feature scaling | ⭐⭐ Intermediate |
 | 11 | [LangChain Hello World](./11-langchain-hello-world/) | ChatOpenAI, PromptTemplate, StrOutputParser, LCEL pipe operator | 🦜 Beginner LangChain |
+| 12 | [LangChain Chatbot with Memory](./12-langchain-chatbot-memory/) | ConversationBufferMemory, ConversationChain, stateful chatbot, custom PromptTemplate | 🦜 Beginner LangChain |
 
 ---
 
@@ -83,6 +84,7 @@ If you're new to AI/ML, follow this order:
 9. **Project 09 – Weather Classifier** — Build a Random Forest that predicts weather type (Sunny/Rainy/Cloudy/Snowy) from meteorological features, and discover how feature engineering and ensemble models boost accuracy.
 10. **Project 10 – Customer Segmentation** — Group retail customers into five meaningful segments by annual income and spending score using K-Means clustering, and learn how the Elbow Method helps choose the right number of clusters.
 11. **Project 11 – LangChain Hello World** — Wire your first LangChain chain using `PromptTemplate`, `ChatOpenAI`, and `StrOutputParser` with the LCEL pipe operator — the foundation every LangChain application builds on.
+12. **Project 12 – LangChain Chatbot with Memory** — Add persistent context to a chatbot using `ConversationBufferMemory` and `ConversationChain`, so the LLM remembers what was said earlier in the conversation.
 
 ---
 
@@ -100,6 +102,7 @@ If you're new to AI/ML, follow this order:
 | `jupyter` | Interactive notebooks |
 | `langchain` | LLM application framework |
 | `langchain-openai` | LangChain integration for OpenAI models |
+| `langchain-community` | LangChain community integrations and memory modules |
 | `openai` | OpenAI Python SDK |
 
 ---
