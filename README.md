@@ -20,6 +20,7 @@ A collection of simple, well-documented AI and Machine Learning projects built w
 | 10 | [Customer Segmentation](./10-customer-segmentation/) | K-Means clustering, unsupervised learning, Elbow Method, feature scaling | ⭐⭐ Intermediate |
 | 11 | [LangChain Hello World](./11-langchain-hello-world/) | ChatOpenAI, PromptTemplate, StrOutputParser, LCEL pipe operator | 🦜 Beginner LangChain |
 | 12 | [LangChain Chatbot with Memory](./12-langchain-chatbot-memory/) | ConversationBufferMemory, ConversationChain, stateful chatbot, custom PromptTemplate | 🦜 Beginner LangChain |
+| 13 | [LangChain Document QA](./13-langchain-document-qa/) | TextLoader, RecursiveCharacterTextSplitter, FAISS, OpenAIEmbeddings, RetrievalQA, RAG pattern | 🦜 Beginner LangChain |
 
 ---
 
@@ -85,6 +86,7 @@ If you're new to AI/ML, follow this order:
 10. **Project 10 – Customer Segmentation** — Group retail customers into five meaningful segments by annual income and spending score using K-Means clustering, and learn how the Elbow Method helps choose the right number of clusters.
 11. **Project 11 – LangChain Hello World** — Wire your first LangChain chain using `PromptTemplate`, `ChatOpenAI`, and `StrOutputParser` with the LCEL pipe operator — the foundation every LangChain application builds on.
 12. **Project 12 – LangChain Chatbot with Memory** — Add persistent context to a chatbot using `ConversationBufferMemory` and `ConversationChain`, so the LLM remembers what was said earlier in the conversation.
+13. **Project 13 – LangChain Document QA** — Load any text or PDF, split it into chunks, embed into a FAISS vector store, and answer questions using a `RetrievalQA` chain — your first complete RAG pipeline.
 
 ---
 
@@ -103,7 +105,10 @@ If you're new to AI/ML, follow this order:
 | `langchain` | LLM application framework |
 | `langchain-openai` | LangChain integration for OpenAI models |
 | `langchain-community` | LangChain community integrations and memory modules |
+| `langchain-text-splitters` | Document chunking utilities |
 | `openai` | OpenAI Python SDK |
+| `faiss-cpu` | Fast in-memory vector similarity search |
+| `pypdf` | PDF loading and parsing |
 
 ---
 
